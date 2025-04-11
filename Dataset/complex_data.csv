@@ -1,0 +1,101 @@
+id,source,text,author,rating,date,category
+1,product,"This product is literally life-changing! I can't imagine my routine without it now.",user_enthusiast,5,2023-10-01,electronics
+2,video,"The presenter's voice is so annoying I had to mute the video. Content was mediocre at best.",critical_viewer,2,2023-10-02,education
+3,product,"It works... mostly. Sometimes glitches but gets the job done.",practical_user,3,2023-10-03,software
+4,video,"At first I thought this would be boring, but by the end I was completely hooked!",surprised_watcher,4,2023-10-04,entertainment
+5,product,"Overpriced for what you get. Does the bare minimum.",frugal_shopper,2,2023-10-05,home goods
+6,video,"The production quality is Hollywood-level! But the script needs work.",film_expert,4,2023-10-06,education
+7,product,"After 3 months of heavy use, still performs like new. Impressive durability.",long_term_user,5,2023-10-07,tools
+8,video,"Not bad... not great... just sort of... exists.",meh_commenter,3,2023-10-08,vlog
+9,product,"Instructions were unclear, assembly took hours, and then it broke the first time I used it.",frustrated_buyer,1,2023-10-09,furniture
+10,video,"I've watched this seven times and notice new details each viewing!",super_fan,5,2023-10-10,analysis
+11,product,"The hype is real. This absolutely delivers on all its promises.",believer,5,2023-10-11,electronics
+12,video,"The host clearly doesn't understand the subject matter. So many factual errors.",expert_critic,1,2023-10-12,education
+13,product,"Good concept, poor execution. Needs a complete redesign.",design_analyst,2,2023-10-13,appliances
+14,video,"Started strong but the ending ruined the whole thing.",disappointed_fan,2,2023-10-14,entertainment
+15,product,"Perfect if you need something basic. Don't expect premium features.",value_seeker,3,2023-10-15,electronics
+16,video,"This video saved me hours of research. Clear, concise, and accurate.",grateful_viewer,5,2023-10-16,tutorial
+17,product,"Arrived damaged. Replacement was also damaged. Third time was the charm though.",persistent_customer,3,2023-10-17,home goods
+18,video,"The editing is so bad it's distracting. Good information though.",mixed_feelings,3,2023-10-18,education
+19,product,"Does exactly what the expensive brand-name version does for half the price.",smart_shopper,5,2023-10-19,tools
+20,video,"I'd rather watch paint dry than sit through this again.",bored_to_tears,1,2023-10-20,entertainment
+21,product,"The app keeps crashing and customer service was useless.",angry_customer,1,2023-10-21,software
+22,video,"Brilliant analysis! Changed my entire perspective on the topic.",inspired_learner,5,2023-10-22,analysis
+23,product,"Good but not great. The competitor's version has more features.",comparison_shopper,3,2023-10-23,electronics
+24,video,"The host tries too hard to be funny. Just give us the information!",all_business,2,2023-10-24,tutorial
+25,product,"Flawless performance. Worth every penny.",satisfied_owner,5,2023-10-25,appliances
+26,video,"This is the video I send to everyone who asks about this topic.",evangelist,5,2023-10-26,education
+27,product,"The battery life is a joke. Dies before lunchtime every day.",power_user,2,2023-10-27,electronics
+28,video,"The background music is louder than the narration. Can't hear anything!",audio_issues,2,2023-10-28,tutorial
+29,product,"I was skeptical but this actually works better than advertised.",pleasantly_surprised,4,2023-10-29,home goods
+30,video,"The information is good but presented in the most boring way possible.",sleepy_viewer,3,2023-10-30,education
+31,product,"Great when it works, but that's only about 70% of the time.",unreliable,3,2023-10-31,software
+32,video,"The first 5 minutes are gold. The rest is filler.",front_loaded,3,2023-11-01,entertainment
+33,product,"Customer service went above and beyond to solve my issue.",service_lover,5,2023-11-02,electronics
+34,video,"The charts and graphs make complex data so easy to understand!",visual_learner,5,2023-11-03,analysis
+35,product,"The design looks cheap and it feels fragile.",aesthetics_matter,2,2023-11-04,home goods
+36,video,"The host's smug attitude ruins what could be good content.",personality_clash,2,2023-11-05,opinion
+37,product,"Simple to set up and works perfectly right out of the box.",tech_newbie,5,2023-11-06,electronics
+38,video,"This video is like drinking from a firehose - too much info too fast!",overwhelmed,3,2023-11-07,tutorial
+39,product,"The advertised features are misleading. Doesn't do half of what they claim.",deceived,1,2023-11-08,software
+40,video,"Perfect pacing, perfect tone, perfect information density.",goldilocks,5,2023-11-09,education
+41,product,"It's fine. Not amazing, not terrible. Just... fine.",indifferent,3,2023-11-10,appliances
+42,video,"The constant cuts give me motion sickness. Can't watch it.",visually_uncomfortable,1,2023-11-11,vlog
+43,product,"The premium version is worth the extra cost - night and day difference.",upgrade_advocate,4,2023-11-12,electronics
+44,video,"I learned more in 10 minutes than I did in a semester at college.",mind_blown,5,2023-11-13,education
+45,product,"Stopped working after 3 weeks. No response from customer service.",abandoned,1,2023-11-14,tools
+46,video,"The examples used are outdated and irrelevant.",out_of_touch,2,2023-11-15,tutorial
+47,product,"The color in person is completely different from the photos online.",false_advertising,2,2023-11-16,home goods
+48,video,"The guest speaker completely derailed the conversation. Stick to the host!",bad_chemistry,2,2023-11-17,interview
+49,product,"I've bought three of these as gifts because they're so good!",brand_evangelist,5,2023-11-18,electronics
+50,video,"The research behind this is impeccable. Citations for everything!",detail_lover,5,2023-11-19,analysis
+51,product,"The touchscreen is unresponsive half the time.",glitchy,2,2023-11-20,electronics
+52,video,"This is the definition of 'style over substance'. Pretty but empty.",shallow,2,2023-11-21,entertainment
+53,product,"The auto-renewal is predatory and impossible to cancel.",dark_patterns,1,2023-11-22,software
+54,video,"The 4K HDR footage is absolutely stunning. Worth watching just for that.",visual_feast,5,2023-11-23,travel
+55,product,"Does one thing and does it extremely well.",specialist,4,2023-11-24,tools
+56,video,"The constant self-promotion ruins what could be good content.",too_commercial,2,2023-11-25,vlog
+57,product,"The packaging was excessive - so much plastic waste!",eco_conscious,2,2023-11-26,home goods
+58,video,"The transcript has timestamps for every section - so helpful!",accessibility_plus,5,2023-11-27,education
+59,product,"The companion app is buggy but the hardware itself is solid.",mixed_bag,3,2023-11-28,electronics
+60,video,"The jokes land perfectly and the information sticks because of them.",edutainment,5,2023-11-29,education
+61,product,"The 'premium' material feels cheap and scratches easily.",quality_issues,2,2023-11-30,accessories
+62,video,"The background visuals contradict what's being said. Very confusing.",production_fail,2,2023-12-01,education
+63,product,"The subscription model ruins what would otherwise be a great product.",subscription_fatigue,2,2023-12-02,software
+64,video,"The creator clearly put hundreds of hours into this. Respect.",appreciative,5,2023-12-03,documentary
+65,product,"The ergonomic design makes all the difference for long sessions.",comfort_matters,5,2023-12-04,electronics
+66,video,"The audio mixing is terrible - loud music, quiet voices.",sound_engineer,2,2023-12-05,review
+67,product,"The customizable options let me tweak it exactly how I want.",power_user,5,2023-12-06,software
+68,video,"The clickbait title has nothing to do with the actual content.",bait_and_switch,1,2023-12-07,entertainment
+69,product,"The included accessories are flimsy but the main unit is solid.",accessory_issues,3,2023-12-08,electronics
+70,video,"The chapter markers make it so easy to revisit specific parts.",user_friendly,5,2023-12-09,tutorial
+71,product,"The AI features actually work as promised - rare these days!",ai_enthusiast,5,2023-12-10,software
+72,video,"The constant cuts to sponsorships break the flow every 2 minutes.",over_commercialized,2,2023-12-11,vlog
+73,product,"The 'smart' features are more annoying than helpful.",tech_skeptic,2,2023-12-12,home automation
+74,video,"The creator explains complex topics like they're simple. Gifted teacher.",natural_educator,5,2023-12-13,education
+75,product,"The setup process was so easy even my technophobe mom could do it.",user_friendly,5,2023-12-14,electronics
+76,video,"The constant recaps make this twice as long as it needs to be.",padded_runtime,2,2023-12-15,documentary
+77,product,"The mobile app counterpart is actually better than the desktop version.",mobile_first,4,2023-12-16,software
+78,video,"The animations make abstract concepts crystal clear.",visual_learner,5,2023-12-17,education
+79,product,"The battery indicator is completely inaccurate.",power_issues,2,2023-12-18,electronics
+80,video,"The host's passion for the subject is infectious!",inspired,5,2023-12-19,interview
+81,product,"The software updates have actually made it worse over time.",update_regret,2,2023-12-20,software
+82,video,"The research methodology is flawed which undermines the conclusions.",critical_thinker,2,2023-12-21,analysis
+83,product,"The lifetime warranty gives me peace of mind.",security_seeker,5,2023-12-22,tools
+84,video,"The 3D models help visualize things you couldn't see otherwise.",tech_appreciator,5,2023-12-23,science
+85,product,"The noise level is unacceptable for a product at this price point.",noise_complaint,2,2023-12-24,appliances
+86,video,"The creator answers every possible question you might have.",thorough,5,2023-12-25,tutorial
+87,product,"The color options are all ugly. Why no neutral tones?",aesthetic_fail,2,2023-12-26,home goods
+88,video,"The background music choice is bizarre and distracting.",tone_deaf,2,2023-12-27,entertainment
+89,product,"The wireless charging works through my thick case - impressive!",feature_plus,5,2023-12-28,electronics
+90,video,"The guest expert contradicts the host constantly. Who's right?",confusing,2,2023-12-29,debate
+91,product,"The 'new and improved' version is actually worse than the original.",downgrade,1,2023-12-30,electronics
+92,video,"The historical footage they dug up is fascinating!",history_buff,5,2023-12-31,documentary
+93,product,"The voice control works surprisingly well in noisy environments.",impressed,5,2024-01-01,smart home
+94,video,"The constant jump cuts give me a headache.",editing_fail,1,2024-01-02,vlog
+95,product,"The carrying case included is higher quality than the product itself.",case_better,3,2024-01-03,electronics
+96,video,"The practical examples make the theory actually useful.",applied_learning,5,2024-01-04,education
+97,product,"The companion app requires too many permissions just to function.",privacy_concerns,2,2024-01-05,software
+98,video,"The creator's genuine curiosity makes learning fun again.",joyful_learning,5,2024-01-06,education
+99,product,"The modular design means I can replace parts instead of the whole unit.",sustainable,5,2024-01-07,tools
+100,video,"The constant 'like and subscribe' begging is exhausting.",beggar,2,2024-01-08,vlog
